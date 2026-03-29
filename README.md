@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Robot Arm Demo](screenshots/RobotArm.JPG)
+![Robot Arm Demo](screenshot/RobotArm.JPG)
 <p align="center">
   <img src="screenshots/demo.png" width="600"/>
 </p>
