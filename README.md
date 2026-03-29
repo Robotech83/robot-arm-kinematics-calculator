@@ -3,9 +3,7 @@
 ## Screenshot
 
 ![Robot Arm Demo](screenshots/RobotArm.JPG)
-<p align="center">
-  <img src="screenshots/demo.png" width="600"/>
-</p>
+
 
 A Python app that calculates and visualizes the end-effector position of a 2-link robotic arm using **forward kinematics**.
 
